@@ -12,9 +12,7 @@
 
 - 📫 How to reach me **princep7277789921@gmail.com**
 -  👨‍💻 This is [My Portfolio](https://https://kprince114.github.io/)
--  📄 This is [My Resume]([https://drive.google.com/file/d/1IM0EGep76hyjC-Sw-BNywfH_UZ6D98gc/view?usp=sharing](https://drive.google.com/file/d/1L-NjfOQ1W4wCRG3esT9qllhYh86RaQRb/view))
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1L-NjfOQ1W4wCRG3esT9qllhYh86RaQRb/view?usp=sharing](https://drive.google.com/file/d/1L-NjfOQ1W4wCRG3esT9qllhYh86RaQRb/view?usp=sharing)
+- 📄  This is My Resume  [https://drive.google.com/file/d/1L-NjfOQ1W4wCRG3esT9qllhYh86RaQRb/view?usp=sharing](https://drive.google.com/file/d/1L-NjfOQ1W4wCRG3esT9qllhYh86RaQRb/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
