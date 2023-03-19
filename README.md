@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning **JAVA SCRIPT, HTML ,CSS , JAVA , SQL**
 
 - 📫 How to reach me **princep7277789921@gmail.com**
--  👨‍💻 This is [My Portfolio](https://kprince114.github.io/)
+-  👨‍💻 This is My [Portfolio](https://kprince114.github.io/)
 - 📄  This is My Resume  [https://drive.google.com/file/d/1L-NjfOQ1W4wCRG3esT9qllhYh86RaQRb/view?usp=sharing](https://drive.google.com/file/d/1L-NjfOQ1W4wCRG3esT9qllhYh86RaQRb/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
