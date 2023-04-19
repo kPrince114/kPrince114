@@ -1,6 +1,4 @@
 
-
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=blue&amp;size=20&amp;lines=Hey!+It's+Prince+Kumar;Java+Back-end+Developer...;" style="width: 100%;">
 <img src="https://camo.githubusercontent.com/2b526261e88935a5671e4a20a23e230c06dc6e9192706fa9d40190bf0f58a050/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f66612f37622f34622f66613762346264633362326637336537343965356332633634366434616531332e676966"> 
 
@@ -11,7 +9,7 @@
 - 🌱 I’m currently learning **JAVA SCRIPT, HTML ,CSS , JAVA , SQL**
 
 - 📫 How to reach me **princep7277789921@gmail.com**
--  👨‍💻 This is My Protfolio [https://kprince114.github.io/](https://kprince114.github.io/)
+-  👨‍💻 This is My portfolio [https://kprince114.github.io/](https://kprince114.github.io/)
 - 📄  This is My Resume  [https://drive.google.com/file/d/1L-NjfOQ1W4wCRG3esT9qllhYh86RaQRb/view?usp=sharing](https://drive.google.com/file/d/1L-NjfOQ1W4wCRG3esT9qllhYh86RaQRb/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
