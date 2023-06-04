@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **princep7277789921@gmail.com**
 -  👨‍💻 This is My portfolio [https://kprince114.github.io/](https://kprince114.github.io/)
-- 📄  This is My Resume  [https://drive.google.com/file/d/1L-NjfOQ1W4wCRG3esT9qllhYh86RaQRb/view?usp=sharing](https://drive.google.com/file/d/1L-NjfOQ1W4wCRG3esT9qllhYh86RaQRb/view?usp=sharing)
+- 📄  This is My Resume  [https://drive.google.com/file/d/1yi9hM7owLwmZNKP3uBJiHlD8m69f7TNd/view](https://drive.google.com/file/d/1yi9hM7owLwmZNKP3uBJiHlD8m69f7TNd/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
